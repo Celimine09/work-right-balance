@@ -5,6 +5,7 @@ import { MultitaskingPage } from "./pages/MultitaskingPage";
 import { Game1Page } from "./pages/Game1Page";
 import { Game2Page } from "./pages/Game2Page";
 import { Game3Page } from "./pages/Game3Page";
+import Game4Page from "./pages/Game4Page";
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
         <Route path="/game1" element={<Game1Page />} />
         <Route path="/game2" element={<Game2Page />} />
         <Route path="/game3" element={<Game3Page />} />
+        <Route path="/game4" element={<Game4Page />} />
       </Routes>
     </div>
   );
