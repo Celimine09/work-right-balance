@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const bgPaper = '/figma-assets/game3/Bg.png';
 const bgBlue = '/figma-assets/game3/bgฟ้า.png';
