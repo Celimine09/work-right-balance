@@ -383,7 +383,7 @@ export function Game3Page() {
               <img
                 src={imgBossQ[currentBossStep]}
                 alt="Boss Question"
-                className="absolute right-[130px] top-[280px] w-[150px] object-contain animate-in zoom-in"
+                className="absolute right-[130px] top-[280px] w-[250px] object-contain animate-in zoom-in"
               />
             ) : (
               <div className="absolute right-[130px] top-[290px] rounded bg-white px-4 py-2 font-bold text-green-600">
@@ -434,7 +434,7 @@ export function Game3Page() {
                         ? imgBossCorrect
                         : imgBossWrong
                 }
-                className="w-[80%] max-w-[500px] object-contain animate-in zoom-in duration-300 drop-shadow-2xl"
+                className="w-[100%] max-w-[1200px] object-contain animate-in zoom-in duration-300 drop-shadow-2xl"
                 alt="Feedback"
               />
             </div>

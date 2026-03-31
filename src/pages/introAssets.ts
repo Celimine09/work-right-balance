@@ -50,3 +50,5 @@ export const imgGroup30 = `${P}/84ff2b240ce0bcd7637601c8465b0e24e3ff0f81.svg`;
 export const imgGroup31 = `${P}/f96980196d35fc59589eea19e159b7cbabf28ea4.svg`;
 export const imgGroup32 = `${P}/976234395f3420456d98af77defed63903c6cc1e.svg`;
 export const imgGroup33 = `${P}/7da6587b72aca11992bf52fb1b3ed4006beb149f.svg`;
+export const imgPressure = "/figma-assets/intro/กดดันใหญ่.png";
+export const imgExpectation = "/figma-assets/intro/ความคาดหวัง.png";
